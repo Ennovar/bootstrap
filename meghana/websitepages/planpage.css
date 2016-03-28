@@ -275,7 +275,7 @@
 }
 .footr{
   width: 1241px;
-  height: 330px;
+  height: 350px;
   background-color: #fff;
 }
 .tabbold{
@@ -300,7 +300,7 @@
 padding-left: 84px;
 }
 .thr_rw_Spc{
-  padding-left: 184px;
+  padding-left: 154px;
 }
 .news_rw{
   color: #4A8078;
@@ -315,7 +315,7 @@ padding-left: 84px;
   height: 30px;
   float: right;
   margin-top: -5%;
-  margin-right: 7.7%;
+  margin-right: 12.7%;
 }
 ::-webkit-input-placeholder{
   color: #93B0AA;
@@ -326,11 +326,33 @@ padding-left: 84px;
 .plane_fnt{
   color: #6EB148;
   float: right;
-  margin-right: 9%;
+  margin-right: 14%;
     margin-top: -4.3%;
 }
 .ftr_line{
   width: 867px;
   height: 1px;
-  color: #F5F5F5;
+  background-color: #F5F5F5;
+  margin-left: 183px;
+  margin-top: 3%;
+}
+.ftr_resv_txt{
+  font-size: 11px;
+font-weight: normal;
+color: #93B0AA;
+margin-left: 183px;
+margin-top: 1.2%;
+
+}
+.ftr_img{
+  width: 25px;
+  height: 25px;
+  float: right;
+  margin-left: 5px;
+
+}
+.ftr_icn_spc{
+  margin-right: 17%;
+  margin-top: -1.2%;
+
 }
