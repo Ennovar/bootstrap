@@ -1,0 +1,257 @@
+.body{
+     font: Helvetica arial, sans-serif;
+     background-color: #FFFFFF;
+ }
+ .container{
+   padding-left: 160px;
+ }
+ .container-fluid1{
+     padding-left: 93px;
+     padding-right: 20px;
+     width: 850px;
+     height: 100px;
+     color: #6C6C6C;
+     background-color: #FFFFFF;
+     font-weight: lighter;
+ }
+ .col-sm-1{
+   padding-top: 27px;
+   font-size: 30px;
+   font-weight: 300;
+ }
+ .col-sm-1_1{
+   text-align: right;
+   padding-top: 40px;
+   padding-right: 40px;
+ }
+.container-fluid2{
+    width: 850px;
+    height: 450px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 40px;
+    font-weight: lighter;
+    color: #6C6C6C;
+    background-image: url("https://static.pexels.com/photos/6613/nature-field-flowers-grass.jpg");
+    z-index: -1;
+ }
+.txt{
+   padding-top:100px;
+}
+.tt{
+  font-weight: 400;
+}
+ .btn{
+   background-color: #EC5483;
+   color: #FFFFFF;
+   border: none;
+   float: middle;
+   padding-top: 8px;
+   height: 50px;
+   width: 230px;
+   border-radius: 50px;
+   font-size: 20px;
+   font-weight: 200;
+ }
+ .glyphicon-arrow-right{
+   font-size: 75%;
+   font-weight: 10;
+ }
+ .glyphicon-repeat{
+   font-size: 300%;
+   color:#6c6c6c;
+ }
+ .glyphicon-time{
+   font-size: 300%;
+   color:#6c6c6c;
+ }
+ .glyphicon-list{
+   font-size: 300%;
+   color:#6c6c6c;
+ }
+ .glyphicon-calendar{
+   font-size: 300%;
+   color:#6c6c6c;
+ }
+ .glyphicon-globe{
+   font-size: 300%;
+   color:#6c6c6c;
+ }
+ .glyphicon-lock{
+   font-size: 300%;
+   color:#6c6c6c;
+ }
+ .col-sm-3{
+   padding-left: 20px;
+ }
+ .p1{
+   font-weight: 200;
+   letter-spacing: 1.2px;
+   text-align: center;
+   padding-top: 40px;
+ }
+ .container-fluid3{
+    width: 850px;
+    height: 432px;
+    padding-top: 20px;
+    align-content: center;
+    padding-left: 100px;
+ }
+ .col-sm-4{
+   padding-left: 93px;
+ }
+ .container-fluid4{
+   height: 560px;
+   width: 850px;
+   background-color: #FCFCFC;
+ }
+ .panel{
+   height: 215px;
+   width: 280px;
+   border-width: thin;
+   background-color: inherit;
+   border-color: #E6e6e6;
+   font-size: 16px;
+   color: ##6c6c6c;
+   font-weight: 100;
+   line-height:35px;
+   padding-left: 15px;
+   padding-right: 15px;
+   padding-top: 15px;
+ }
+ .aa{
+   padding-left: 93px;
+   padding-top: 25px;
+   font-weight: 200;
+   color: #6c6c6c;
+ }
+ .container-fluid5{
+   height: 270px;
+   width: 850px;
+ }
+ .container-fluid6{
+   height: 545px;
+   width: 850px;
+   background-color: #FCFCFC;
+ }
+ .image1{
+   height: 240px;
+   width: 280px;
+ }
+ .image3{
+   height: 240px;
+   width: 280px;
+ }
+ .pp{
+   padding-top: 40px;
+   letter-spacing: 1.2px;
+   font-weight: 300;
+ }
+ .dd{
+   font-size: 11px;
+   font-weight: lighter;
+ }
+ .container-fluid7{
+   height: 545px;
+   width: 850px;
+   color: #6c6c6c;
+   line-height: 2;
+   padding-left: 50px;
+ }
+ .row{
+   padding-left: 60px;
+   padding-top: 100px;
+ }
+ .ss{
+   font-size: 12px;
+ }
+ .well{
+   width: 128px;
+   height: 68px;
+   border-width: medium;
+   background-color: #ffffff;
+   font-size: 20px;
+   color: #EAE8E9;
+   font-weight: 500;
+   padding-left: 25px;
+   padding-top: 10px;
+ }
+ .col-sm-5{
+   padding-left: 93px;
+ }
+ .container-fluid8{
+   height: 570px;
+   width: 850px;
+   font-size: 15px;
+   color: #686868;
+   background-color: #FCFCFC;;
+ }
+ .container-fluid9{
+   height: 355px;
+   width: 850px;
+   padding-top: 120px;
+   font-size: 22px;
+   color: #686868;
+   font-weight: lighter;
+   letter-spacing: 1.2px;
+   font-size: 19px;
+   line-height: 17px;
+ }
+ .btn2{
+   background-color: #EC5483;
+   border: none;
+   color: #FFFFFF;
+   width: 232px;
+   height: 50px;
+   font-size: 16px;
+   font-weight: 300;
+ }
+ .bb{
+   padding-top: 50px;
+ }
+ .t3{
+   font-weight: 300;
+ }
+ .foot-h2{
+   font-weight: 300;
+   padding-top: 80px;
+   font-size: 30px;
+ }
+ .footer{
+   padding-top: 50px;
+   padding-left: 0px;
+ }
+ .container-fluid10{
+   height: 308px;
+   width: 850px;
+   background-color: #38404B;
+   color: white;
+   font-weight: lighter;
+   letter-spacing: 1.2px;
+ }
+ .foot-cr{
+   font-size: 12px;
+   padding-top: 25px;
+ }
+.row1{
+  padding-top: 100px;
+  padding-left: 20px;
+}
+.t1{
+  font-weight: 400;
+  font-size: 16px;
+}
+.image2{
+  width:250px;
+  height: 155px;
+  padding-left: 20px;
+}
+.row2{
+  padding-top: 215px;
+  padding-left: 20px;
+}
+.col-sm-7{
+  padding-left: 110px;
+  letter-spacing: 1.2px;
+  font-weight: 100;
+}
