@@ -1,0 +1,14 @@
+.content-black{
+  height: 50px;
+  color: white;
+  background-color: black;
+}
+
+.content-white{
+  height: 50px;
+}
+
+.content-grey{
+  height: 50px;
+  background-color: grey;
+}
